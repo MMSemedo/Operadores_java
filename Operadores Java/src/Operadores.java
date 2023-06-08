@@ -32,6 +32,6 @@ public class Operadores {
         Concatenacao = "1" + (1 + 1 + 1);
 
         System.out.println(Concatenacao);
-
+        
     }
 }
